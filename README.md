@@ -2,7 +2,7 @@
 Assignment-1 CS F469 IR
 
 Done by: 
-Raaed Ahmed Syed
-Ritika Reddy
-Anvitha Nallan
+Raaed Ahmed Syed; 
+Ritika Reddy; 
+Anvitha Nallan; 
 Anurag Sidharth Aribandi
