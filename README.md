@@ -15,8 +15,8 @@
 * The available *metadata* varies by seasons, but can include: character entities, emotion, a tokenized version of the text, caption information, and notes about the transcript.
 
 ### :key: Run the Code
-
-* Open terminal in _ directory and run the command python _ .py
+* Save file as IR_1.py
+* Open terminal in the directory containing the python program and run the command python IR_1.py
 * When prompted enter a partial or full dialogue from the TV show Friends. Include unique words and character names for better results.
 * Choose a method to compute term frequency from the given options by typing in the option number.
 * For documentation enter command >>>python -m pydoc IR_1 after entering the directory where the file is saved
