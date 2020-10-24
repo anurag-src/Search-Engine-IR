@@ -28,5 +28,6 @@
 
 ### :star: Output
 * Top 10 scenes where the query dialogue is similar to a transcript in the scene.
-Format: Season-Number_Episode-Number_Scene-Number
+* Format: Season-Number_Episode-Number_Scene-Number (Ex: s09_e05_c23)
+* The score is also displayed next to the Scene data based on the option the user chose initially.
 
